@@ -18,7 +18,10 @@ Expected Graduation: August 2025
 - **Honors Program in Partnership with HHN University of Bremen**
 
 ## 🌐 Social Media
-Connect with me on [LinkedIn](https://www.linkedin.com/in/eladtayar) for more professional updates and networking opportunities.
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/eladtayar) for more professional updates and networking opportunities.
+- Chack out my [instagram](https://www.instagram.com/eladtayar) to know me better.
+
+
 
 ---
 
