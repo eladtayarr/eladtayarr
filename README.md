@@ -9,7 +9,7 @@ _College of Management, Rishon Lezion_
 Expected Graduation: August 2025  
 
 ## 🛠 Skills
-- **Programming:** Python, Java, SQL
+- **Programming:** Python, Java, SQL, HTML/CSS/JS, React, Node.js, Numpy, Mongodb, SQLite etc...
 - **Data Analysis:** Proficient in interpreting and applying data to decision-making
 - **Project Management:** Time management, problem-solving, and teamwork
 - **Communication:** Strong verbal and written communication skills
