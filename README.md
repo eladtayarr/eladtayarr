@@ -1,5 +1,5 @@
 # 👨‍💻 Elad Tayar - Information Systems & Management Student
-📍 Shoham, Israel · 📧 [eladt1010@gmail.com](mailto:eladt1010@gmail.com) 
+📍 Shoham, Israel
 
 ## 🎯 Objective
 I am a highly motivated second-year student pursuing a Bachelor's Degree in Information Systems and Management, seeking a position in Data Analysis, Databases, Development, Systems Testing, and Business Management. I am goal-oriented and assertive, with strong technical skills and a quick learning ability. I excel in both teamwork and communication, and I am fluent in Hebrew and English. I am available for three shifts per week.
