@@ -1,27 +1,41 @@
-# Elad Tayar
+# 👨‍💻 Elad Tayar - Information Systems & Management Student
 📍 Shoham, Israel · 📧 [eladt1010@gmail.com](mailto:eladt1010@gmail.com) 
-## 👨‍🎓 About Me
-I am a second-year Information Systems Management student at the College of Management, Rishon Lezion, aiming to graduate in August 2025 with a GPA of 89/100. My academic and professional journey is anchored in leveraging technology to address business challenges, focusing on database management, data analysis, and programming.
+
+## 🎯 Objective
+I am a highly motivated second-year student pursuing a Bachelor's Degree in Information Systems and Management, seeking a position in Data Analysis, Databases, Development, Systems Testing, and Business Management. I am goal-oriented and assertive, with strong technical skills and a quick learning ability. I excel in both teamwork and communication, and I am fluent in Hebrew and English. I am available for three shifts per week.
 
 ## 🎓 Education
-**B.A. in Information Systems Management**  
-_College of Management, Rishon Lezion_  
-Expected Graduation: August 2025  
+**Bachelor’s Degree in Information Systems and Management**  
+_The College of Management Academic Studies (2022 - Present)_  
+- Dual major in Business Administration and Information Systems.
+- GPA: 89  
+- Focus on application development, data structures, algorithms, and data analysis.  
+- Completed advanced courses in management, accounting, statistics, finance, and economics.
 
-## 🛠 Skills
-- **Programming:** Python, Java, SQL, HTML/CSS/JS, React, Node.js, Numpy, Mongodb, SQLite etc...
-- **Data Analysis:** Proficient in interpreting and applying data to decision-making
-- **Project Management:** Time management, problem-solving, and teamwork
-- **Communication:** Strong verbal and written communication skills
+**🏅 Honors Program**  
+_The College of Management in collaboration with University of Bremen, Germany (2024)_  
+- Developed skills in academic research, data analysis, and intercultural communication.
+- Worked on a research project on uncertainty in international organizations and research collaboration.
 
-## 🏆 Certificates
-- **Honors Program in Partnership with HHN University of Bremen**
+## 💻 Technical Skills
+- **🖥️ SAP ERP**: Report generation, transaction creation, long-term system maintenance planning.
+- **📊 Excel**: Complex functions, Pivot tables, custom reports, third-party data integration.
+- **🐍 Python**: Experience with Pandas, Numpy, OOP, API integration, and database connections (SQLite, SQLAlchemy, MongoDB).
+- **🗄️ SQL Server**: Database management, query writing, and creating data dashboards.
+- **🌐 Web Development**: HTML, CSS, JavaScript, React, user input validation, API integration.
+- **☕ Java**: Basic understanding of syntax and commands.
+- **📈 PowerPoint**: Creating dynamic presentations and diagrams with Excel integration.
 
-## 🌐 Social Media
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/eladtayar) for more professional updates and networking opportunities.
-- Chack out my [instagram](https://www.instagram.com/eladtayar) to know me better.
+## 🌍 Languages
+- **🇮🇱 Hebrew**: Native language
+- **🇬🇧 English**: Fluent
 
-
+## 📬 Contact Information
+- **📞 Phone**: +972 54-3276505  
+- **✉️ Email**: [eladt1010@gmail.com](mailto:eladt1010@gmail.com)  
+- **🌐 Website**: [www.eladtayarr.com](http://www.eladtayarr.com)  
+- **🔗 LinkedIn**: [linkedin.com/in/eladtayar](https://www.linkedin.com/in/eladtayar)  
+- **💻 GitHub**: [github.com/eladtayarr](http://www.github.com/eladtayarr)  
 
 ---
 
