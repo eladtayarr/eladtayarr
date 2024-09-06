@@ -1,5 +1,11 @@
 # 👨‍💻 Elad Tayar - Information Systems & Management Student
-📍 Shoham, Israel
+
+## 📬 Contact Information
+- **📞 Phone**: +972 54-3276505  
+- **✉️ Email**: [eladt1010@gmail.com](mailto:eladt1010@gmail.com)  
+- **🌐 Website**: [www.eladtayarr.com](http://www.eladtayarr.com)  
+- **🔗 LinkedIn**: [linkedin.com/in/eladtayar](https://www.linkedin.com/in/eladtayar)
+- **📍 Shoham, Israel**
 
 ## 🎯 Objective
 I am a highly motivated second-year student pursuing a Bachelor's Degree in Information Systems and Management, seeking a position in Data Analysis, Databases, Development, Systems Testing, and Business Management. I am goal-oriented and assertive, with strong technical skills and a quick learning ability. I excel in both teamwork and communication, and I am fluent in Hebrew and English. I am available for three shifts per week.
@@ -29,13 +35,6 @@ _The College of Management in collaboration with University of Bremen, Germany (
 ## 🌍 Languages
 - **🇮🇱 Hebrew**: Native language
 - **🇬🇧 English**: Fluent
-
-## 📬 Contact Information
-- **📞 Phone**: +972 54-3276505  
-- **✉️ Email**: [eladt1010@gmail.com](mailto:eladt1010@gmail.com)  
-- **🌐 Website**: [www.eladtayarr.com](http://www.eladtayarr.com)  
-- **🔗 LinkedIn**: [linkedin.com/in/eladtayar](https://www.linkedin.com/in/eladtayar)  
-- **💻 GitHub**: [github.com/eladtayarr](http://www.github.com/eladtayarr)  
 
 ---
 
